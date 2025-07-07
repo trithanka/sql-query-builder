@@ -1,11 +1,26 @@
 {
-  "name": "sql-query-builder",
+  "name": "@trithanka/sql-builder",
   "version": "1.0.0",
-  "description": "",
+  "description": "A lightweight, function-based, chainable SQL query builder for Node.js using MySQL pool connections.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\" && exit 0"
   },
-  "author": "@trithanka",
-  "license": "ISC"
+  "keywords": [
+    "sql",
+    "query-builder",
+    "mysql",
+    "nodejs",
+    "trithanka"
+  ],
+  "author": "Trithanka",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trithanka/sql-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Trithanka/sql-builder/issues"
+  },
+  "homepage": "https://github.com/Trithanka/sql-builder#readme"
 }
