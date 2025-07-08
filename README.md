@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/@trithanka/sql-builder)](https://www.npmjs.com/package/@trithanka/sql-builder)
 [![npm downloads](https://img.shields.io/npm/dw/@trithanka/sql-builder)](https://www.npmjs.com/package/@trithanka/sql-builder)
 [![GitHub license](https://img.shields.io/github/license/Trithanka/sql-query-builder)](https://github.com/Trithanka/sql-query-builder/blob/main/LICENSE)
-[![Build](https://github.com/Trithanka/sql-query-builder/actions/workflows/node.js.yml/badge.svg)](https://github.com/Trithanka/sql-query-builder/actions)
+[![Build](https://github.com/Trithanka/sql-query-builder/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/Trithanka/sql-query-builder/actions)
 
 
 A lightweight, function-based, chainable SQL query builder for Node.js projects using MySQL/MariaDB pool connections and raw queries. Perfect for building dynamic filters, pagination, and safe SQL operations — without a full-blown ORM.
