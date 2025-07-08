@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Trithanka/sql-builder.git"
+    "url": "git+https://github.com/Trithanka/sql-query-builder"
   },
   "bugs": {
-    "url": "https://github.com/Trithanka/sql-builder/issues"
+    "url": "https://github.com/Trithanka/sql-query-builder/issues"
   },
-  "homepage": "https://github.com/Trithanka/sql-builder#readme"
+  "homepage": "https://github.com/Trithanka/sql-query-builder#readme"
 }
